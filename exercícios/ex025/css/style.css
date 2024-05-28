@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input-grupo{
+    position: relative;
+}
+
+.input {
+    border: solid 1.5px gray;
+    border-radius: 7px;
+    background: none;
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+}
+
+#inome{
+    margin-bottom: 10px;
+    display: block;
+}
+
+#isobrenome{
+    display: block;
+    margin-bottom: 10px;
+}
+
+#iemail{
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+#isenha{
+    display: block;
+    margin-bottom: 10px;
+}
+
+#idata{
+    display: block;
+    margin-bottom: 10px;
+}
